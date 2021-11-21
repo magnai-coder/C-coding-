@@ -13,7 +13,6 @@ int main(void)
 		    }
            	printf("\n");
 	      }
-	      printf("hello");
 		
 	  printf("%7s%13s\n","Hicheel","Dun");
 	  for(i=0; i<n; i++){
